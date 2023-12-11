@@ -50,6 +50,11 @@
             <artifactId>xz</artifactId>
             <version>1.9</version>
         </dependency>
+        <dependency>
+            <groupId>com.nimbusds</groupId>
+            <artifactId>nimbus-jose-jwt</artifactId>
+            <version>9.4</version>
+        </dependency>
     </dependencies>
 
     <build>
